@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": true
+            },
+            "previewLimit": 50,
+            "server": "dpg-ckvt8reb0mos73ckn89g-a",
+            "driver": "PostgreSQL",
+            "name": "issue-tracker",
+            "database": "issuesdb_n9r9",
+            "username": "root",
+            "connectString": "postgres://root:x9mSQup9PTVuHr99k4BocExKjvuVH2xW@dpg-ckvt8reb0mos73ckn89g-a.oregon-postgres.render.com/issuesdb_n9r9"
+        }
+    ]
+}
